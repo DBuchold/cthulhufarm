@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+//walk speed + sprite drawing
 
 w_spd = 2;
 n_spd = 3;

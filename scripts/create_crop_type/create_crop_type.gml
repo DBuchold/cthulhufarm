@@ -1,4 +1,4 @@
-
+//Grid Snapping/Crop selection script
 function create_crop_type(growth_stage_duration, cost){
 var argNum = argument_count;
 	if (!ds_exists(ds_crops_types, ds_type_grid)) {

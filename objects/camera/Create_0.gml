@@ -1,6 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
-
+//creates camera size and follows player
 following = Object1
 
 h_border = 60;

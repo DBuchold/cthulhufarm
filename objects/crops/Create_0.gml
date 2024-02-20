@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+//crop types + value
 
 ds_crops_types = 0;
 
@@ -26,3 +25,5 @@ selectCrop = 0;
 
 mx = 0;
 my = 0;
+
+cellSize = 32;

@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+
 var anim_length = 9;
 var frame_size = 64;
 var anim_speed = 12;
