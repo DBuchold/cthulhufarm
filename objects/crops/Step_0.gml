@@ -14,3 +14,16 @@ if(mouse_check_button_pressed(mb_left)) {
 	instance_create_crop (mouse_x, mouse_y, selectCrop);}
 }
 
+if(instance_exists(obj_crop) and keyboard_check_pressed(ord("G"))){
+	with(obj_crop){
+		if(growthStageDuration < maxGrowthStage){
+		daysOld += 1;
+		growthStage = daysOld div growthStageDuration;
+	}
+	
+	else {
+		growthStage = maxGrowthStage;
+		fullyGrown = true;
+	}
+}
+}
