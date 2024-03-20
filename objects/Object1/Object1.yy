@@ -13,7 +13,10 @@
     "name": "Objects",
     "path": "folders/Objects.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "par_depthobject",
+    "path": "objects/par_depthobject/par_depthobject.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -37,5 +40,5 @@
     "name": "spr_character_mask",
     "path": "sprites/spr_character_mask/spr_character_mask.yy",
   },
-  "visible": true,
+  "visible": false,
 }

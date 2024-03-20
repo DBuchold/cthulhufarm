@@ -15,8 +15,8 @@
     "path": "folders/Objects/Characters.yy",
   },
   "parentObjectId": {
-    "name": "Obj_Collision",
-    "path": "objects/Obj_Collision/Obj_Collision.yy",
+    "name": "par_depthobject",
+    "path": "objects/par_depthobject/par_depthobject.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,

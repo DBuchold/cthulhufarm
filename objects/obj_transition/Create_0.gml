@@ -1,6 +1,5 @@
-/// @description Insert description here
-// You can write your code in this editor
 targetRoom = -1;
 
-
+targetX = 470;
+targetY = 430;
 

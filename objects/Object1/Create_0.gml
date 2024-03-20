@@ -1,4 +1,5 @@
 //walk speed + sprite drawing
+event_inherited();
 
 w_spd = 2;
 n_spd = 3;

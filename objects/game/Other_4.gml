@@ -3,9 +3,9 @@ roomWidth = room_width;
 roomHeight = room_height;
 
 
-//if(spawnRoom == -1) exit;
-//Object1.x = spawnX;
-//Object1.y = spawnY;
+if(spawnRoom == -1) exit;
+Object1.x = spawnX;
+Object1.y = spawnY;
 //Object1.facing = spawnPlayerFacing;
 
 //with (Object1){

@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-
+event_inherited();
 w_spd = 2;
 n_spd = 3;
 r_spd = 6;

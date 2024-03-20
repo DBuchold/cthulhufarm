@@ -38,5 +38,5 @@
     "name": "spr_character_mask",
     "path": "sprites/spr_character_mask/spr_character_mask.yy",
   },
-  "visible": true,
+  "visible": false,
 }

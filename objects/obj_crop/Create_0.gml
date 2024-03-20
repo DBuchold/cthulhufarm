@@ -1,8 +1,9 @@
+collideable = false;
 
 frameWidth = 32;
 frameHeight = 64;
 
-cropType = 3;
+cropType = 0;
 daysOld = 0;
 growthStage = 0;
 growthStageDuration = 0;
