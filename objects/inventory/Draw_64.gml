@@ -15,3 +15,9 @@ var yy = 0; repeat(3){
 	);
 	yy += 1;
 }
+
+//inv rows
+repeat(inv_slots){
+
+
+}

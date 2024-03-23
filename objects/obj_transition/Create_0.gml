@@ -1,5 +1,5 @@
-targetRoom = -1;
+targetRoom = Room_Interior;
 
-targetX = 470;
-targetY = 430;
+targetX = 460;
+targetY = 420;
 
